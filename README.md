@@ -1,5 +1,10 @@
 # Heart Failure Readmission Risk Predictor
 
+<div style="display: flex; gap: 20px; justify-content: center;">
+  <img src="screenshot-form.png" width="45%" alt="Patient Data Entry Form">
+  <img src="screenshot-results.png" width="45%" alt="Risk Assessment Results">
+</div>
+
 A machine learning-powered clinical decision support tool that predicts heart failure readmission risk based on patient clinical data.
 
 ## Features
