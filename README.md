@@ -1,6 +1,6 @@
 # Heart Failure Readmission Risk Predictor
 
-A machine learning-powered clinical decision support tool that predicts 30-day heart failure readmission risk based on patient clinical data.
+A machine learning-powered clinical decision support tool that predicts heart failure readmission risk based on patient clinical data.
 
 ## Features
 
