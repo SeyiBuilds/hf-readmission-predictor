@@ -59,30 +59,6 @@ The app will open at `http://localhost:8501`
 
 Your app will be live at: `https://hf-readmission-predictor.streamlit.app/`
 
-## GitHub Setup
-
-### Step 1: Create Repository
-1. Go to github.com
-2. Click "New repository"
-3. Name it: `hf-readmission-predictor`
-4. Initialize with README (checked)
-5. Click "Create repository"
-
-### Step 2: Push Code to GitHub
-
-In your project folder, run:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: Heart Failure Readmission Predictor"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/hf-readmission-predictor.git
-git push -u origin main
-```
-
-Replace `YOUR_USERNAME` with your actual GitHub username.
-
 ## Files Included
 
 - `app.py` - Main Streamlit application
@@ -112,12 +88,6 @@ Features: 13 clinical variables
 ## License
 
 This project is open source and available for educational and research purposes.
-
-## Author
-
-Seyi Bankole
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: your.email@example.com
 
 ## Disclaimer
 
